@@ -26,17 +26,10 @@ Table of Contents
 
 The "g" key is pressed
 ----------------------
-The following sections explains all about the physical keyboard
-and the OS interrupts. But, a whole lot happens after that which
-isn't explained. When you just press "g" the browser receives the
-event and the entire auto-complete machinery kicks into high gear.
-Depending on your browser's algorithm and if you are in
-private/incognito mode or not various suggestions will be presented
-to you in the dropbox below the URL bar. Most of these algorithms
-prioritize results based on search history and bookmarks. You are
-going to type "google.com" so none of it matters, but a lot of code
-will run before you get there and the suggestions will be refined
-with each key press. It may even suggest "google.com" before you type it.
+
+The following sections explains all about the physical keyboard and the OS interrupts. But, a whole lot happens after that which isn't explained. When you just press "g" the browser receives the event and the entire __auto-complete__ machinery kicks into high gear. Depending on your __browser's algorithm__ (or server's algorithm) and if you are in __private/incognito mode__ or not various suggestions will be presented to you in the dropbox below the URL bar. Most of these algorithms __prioritize__ results based on s__earch history and bookmarks__. You are going to type "google.com" so none of it matters, but a lot of code will run before you get there and the suggestions will be refined with each key press. It may even suggest "google.com" before you type it.
+
+[More Details are required]()
 
 The "enter" key bottoms out
 ---------------------------
